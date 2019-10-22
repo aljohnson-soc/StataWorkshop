@@ -1,11 +1,11 @@
 # Introduction to Stata Workshop
-With the goal of effectively integrating statistical software into course curricula, this workshop is designed to introduce students to Stata and teach the logic behind using software for statistical analyses. This workshop is two-hours long, appropriate for either undergraduate or graduate students, and can be presented to students at the beginning of a course term to prepare them to use Stata throughout the term.
+With the goal of effectively integrating statistical software into statistics course curricula, this workshop is designed to introduce students to Stata and teach the logic behind using software for statistical analyses. This workshop is two-hours long, appropriate for either undergraduate or graduate students, and can be presented to students at the beginning of a course term to prepare them to use Stata throughout the term.
 
 *N.b. This workshop is part of a research project.*
 
 ## Workshop Materials
-- Presentation
-- Presentation handout for students
+- [Presentation](Presentation.pdf)
+- [Presentation handout for students](PresentationHandout.pdf)
 - [Self-directed Stata guide](StataWorkshop_Self-directedhandout(public).pdf)
 
 ## About Us
