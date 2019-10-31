@@ -8,4 +8,4 @@ With the goal of effectively integrating statistical software into statistics co
 - [Self-directed Stata guide](StataWorkshop_Self-directedhandout(public).pdf)
 
 ## About Us
-[Amy L. Johnson](https://sociology.stanford.edu/people/amy-l-johnson) and [Rebecca Gleit](https://sociology.stanford.edu/people/rebecca-gleit) are PhD Candidates in Sociology at Stanford University. They are passionate about making statistics and statistical software approachable to students of all backgrounds.
+[Amy L. Johnson](https://sites.google.com/stanford.edu/amyljohnson/home) and [Rebecca Gleit](https://sociology.stanford.edu/people/rebecca-gleit) are PhD Candidates in Sociology at Stanford University. They are passionate about making statistics and statistical software approachable to students of all backgrounds.
