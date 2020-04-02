@@ -11,6 +11,7 @@ The workshop has also been adapted for asychronous online learning. See links be
 
 ## Online version of the workshop
 - [Part 1: Data Organization](https://youtu.be/1XMQgG7GFlY)
+- [Part 2: Data Manipulaiton](https://youtu.be/qp1lxelpCik)
 
 ## About us
 [Amy L. Johnson](https://sites.google.com/stanford.edu/amyljohnson/home) and [Rebecca Gleit](https://sociology.stanford.edu/people/rebecca-gleit) are PhD Candidates in Sociology at Stanford University. They are passionate about making statistics and statistical software approachable to students of all backgrounds.
