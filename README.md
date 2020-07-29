@@ -1,8 +1,8 @@
 With the goal of effectively integrating statistical software into statistics course curricula, this workshop is designed to introduce students to Stata and teach the logic behind using software for statistical analyses. This workshop is two-hours long, appropriate for either undergraduate or graduate students, and can be presented to students at the beginning of a course term to prepare them to use Stata throughout the term. 
 
-The workshop has also been adapted for asychronous online learning. See links below. 
+The workshop has been adapted for asychronous online learning. See links below. 
 
-*N.b. This workshop is part of a research project.*
+*N.b. This workshop is part of a research project. It was recently presented (virtually) at the American Sociological Association's 2020 Annual Meeting. Slides from that presentation are available [here](Johnson & Gleit ASA 2020 Presentation.pdf).*
 
 ## Workshop materials
 - [Presentation](Presentation.pdf)
