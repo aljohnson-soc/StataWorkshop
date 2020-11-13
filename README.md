@@ -5,6 +5,7 @@ The workshop has been adapted for asychronous online learning. See links below.
 *This workshop is part of a research project, which was recently presented (virtually) at the American Sociological Association's 2020 Annual Meeting. Slides from that presentation are available [here](Johnson_Gleit_ASA2020.pdf).*
 
 ## Workshop materials
+- [Pre-workshop survey to collect student data](PreSurvey.pdf)
 - [Presentation](Presentation.pdf)
 - [Presentation handout for students](PresentationHandout.pdf)
 - [Self-directed Stata guide](StataWorkshop_Self-directedhandout(public).pdf)
