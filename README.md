@@ -2,7 +2,9 @@ With the goal of effectively integrating statistical software into statistics co
 
 The workshop has been adapted for asychronous online learning. See links below. 
 
-*This workshop is part of a research project, which was recently presented (virtually) at the American Sociological Association's 2020 Annual Meeting. Slides from that presentation are available [here](Johnson_Gleit_ASA2020.pdf).*
+This workshop is part of a research project. Results from the project are forthcoming in *Teaching Sociology* and additional information about the study design are available [here](Appendix_DataMethods.pdf). 
+
+A preliminary version of the project was presented (virtually) at the American Sociological Association's 2020 Annual Meeting. Slides from that presentation are available [here](Johnson_Gleit_ASA2020.pdf).
 
 ## Workshop materials
 - [Pre-workshop survey to collect student data](PreSurvey.pdf)
