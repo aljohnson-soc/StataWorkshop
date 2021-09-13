@@ -8,6 +8,12 @@ Additional information about the study design is available [here](Appendix_DataM
 
 A preliminary version of the project was presented (virtually) at the American Sociological Association's 2020 Annual Meeting. Slides from that presentation are available [here](Johnson_Gleit_ASA2020.pdf).
 
+## Learning goals
+- understand how data are stored in Stata
+- use logical if-statements to subset data
+- use a .do file to write reproducible code
+- begin to use functions to manipulate data (e.g., variable creation)
+
 ## Workshop materials
 - [Pre-workshop survey to collect student data](PreSurvey.pdf)
 - [Presentation](Presentation.pdf)
