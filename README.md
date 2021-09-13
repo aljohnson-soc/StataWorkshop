@@ -1,12 +1,10 @@
 With the goal of effectively integrating statistical software into statistics course curricula, this workshop is designed to introduce students to Stata and teach the logic behind using software for statistical analyses. This workshop is two-hours long, appropriate for either undergraduate or graduate students, and can be presented to students at the beginning of a course term to prepare them to use Stata throughout the term. 
 
-The workshop has been adapted for asychronous online learning. See links below.
-
 This workshop is part of a research project. Please cite as:
 
-Johnson, Amy L., and Rebecca D. Gleit. 2021. “Teaching for a Data-Driven Future: Intentionally Building Foundational Computing Skills.” *Teaching Sociology*. [Link](https://doi.org/10.1177/0092055X211033632)
+> Johnson, Amy L., and Rebecca D. Gleit. 2021. “Teaching for a Data-Driven Future: Intentionally Building Foundational Computing Skills.” *Teaching Sociology*. [Link](https://doi.org/10.1177/0092055X211033632)
 
-Additional information about the study design is available [here](Appendix_DataMethods.pdf). 
+Additional information about the study design is available [here](Appendix_DataMethods.pdf). The workshop has been adapted for asychronous online learning. See links below.
 
 A preliminary version of the project was presented (virtually) at the American Sociological Association's 2020 Annual Meeting. Slides from that presentation are available [here](Johnson_Gleit_ASA2020.pdf).
 
