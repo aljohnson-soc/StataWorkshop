@@ -26,4 +26,4 @@ A preliminary version of the project was presented (virtually) at the American S
 - [Part 3: Getting Started on Your Own](https://youtu.be/LpF0OkuhdiI)
 
 ## About us
-[Amy L. Johnson](https://sites.google.com/stanford.edu/amyljohnson/home) and [Rebecca Gleit](https://sociology.stanford.edu/people/rebecca-gleit) are PhD Candidates in Sociology at Stanford University. They are passionate about making statistics and statistical software approachable to students of all backgrounds.
+[Amy L. Johnson](https://aljohnson-soc.github.io/) and [Rebecca Gleit](https://sociology.stanford.edu/people/rebecca-gleit) are PhD Candidates in Sociology at Stanford University. They are passionate about making statistics and statistical software approachable to students of all backgrounds.
